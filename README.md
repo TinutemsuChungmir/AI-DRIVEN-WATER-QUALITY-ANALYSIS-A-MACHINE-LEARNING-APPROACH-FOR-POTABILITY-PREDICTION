@@ -1,4 +1,4 @@
 # AI-DRIVEN-WATER-QUALITY-ANALYSIS-A-MACHINE-LEARNING-APPROACH-FOR-POTABILITY-PREDICTION
 (Note:Will add more info in future)
 
-A model that analyses a given water sample and produce the net results in the form of graphs and also determining whether the sample is organic or inorganic.
+An ML model that analyses a given water sample with input parameters and produces net results in the form of graphs of its respective parameters and also determining whether the given sample is organic or inorganic.
